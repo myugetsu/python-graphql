@@ -100,6 +100,4 @@ pytest
 - Use Uvicorn or Daphne for ASGI
 - Configure environment variables as in `.env.example`
 
-## License
 
-MIT
