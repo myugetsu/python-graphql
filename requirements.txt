@@ -1,0 +1,9 @@
+pytest
+black
+flake8
+django==5.0.6
+channels
+graphene-django
+django-graphql-jwt
+pytest-django
+psycopg2-binary

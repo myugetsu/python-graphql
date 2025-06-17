@@ -1,0 +1,102 @@
+[
+  {
+    "model": "apps.user",
+    "pk": "u_AliceHobby1",
+    "fields": {
+      "username": "alice_hobby",
+      "plan": "HOBBY",
+      "created_at": "2025-06-17T12:00:00Z",
+      "updated_at": "2025-06-17T12:00:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_BobHobby2",
+    "fields": {
+      "username": "bob_hobby",
+      "plan": "HOBBY",
+      "created_at": "2025-06-17T12:01:00Z",
+      "updated_at": "2025-06-17T12:01:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_CarolHobby3",
+    "fields": {
+      "username": "carol_hobby",
+      "plan": "HOBBY",
+      "created_at": "2025-06-17T12:02:00Z",
+      "updated_at": "2025-06-17T12:02:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_DaveHobby4",
+    "fields": {
+      "username": "dave_hobby",
+      "plan": "HOBBY",
+      "created_at": "2025-06-17T12:03:00Z",
+      "updated_at": "2025-06-17T12:03:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_EveHobby5",
+    "fields": {
+      "username": "eve_hobby",
+      "plan": "HOBBY",
+      "created_at": "2025-06-17T12:04:00Z",
+      "updated_at": "2025-06-17T12:04:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_FrankPro1",
+    "fields": {
+      "username": "frank_pro",
+      "plan": "PRO",
+      "created_at": "2025-06-17T12:05:00Z",
+      "updated_at": "2025-06-17T12:05:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_GracePro2",
+    "fields": {
+      "username": "grace_pro",
+      "plan": "PRO",
+      "created_at": "2025-06-17T12:06:00Z",
+      "updated_at": "2025-06-17T12:06:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_HenryPro3",
+    "fields": {
+      "username": "henry_pro",
+      "plan": "PRO",
+      "created_at": "2025-06-17T12:07:00Z",
+      "updated_at": "2025-06-17T12:07:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_IvyPro4",
+    "fields": {
+      "username": "ivy_pro",
+      "plan": "PRO",
+      "created_at": "2025-06-17T12:08:00Z",
+      "updated_at": "2025-06-17T12:08:00Z"
+    }
+  },
+  {
+    "model": "apps.user",
+    "pk": "u_JudyPro5",
+    "fields": {
+      "username": "judy_pro",
+      "plan": "PRO",
+      "created_at": "2025-06-17T12:09:00Z",
+      "updated_at": "2025-06-17T12:09:00Z"
+    }
+  }
+]
