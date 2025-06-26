@@ -89,6 +89,41 @@ mutation Downgrade($id: ID!) {
 }
 ```
 
+### Retrieve a user by global ID
+
+```graphql
+query {
+  node(id: "PASTE_USER_ID_HERE") {
+    ... on UserNode {
+      id
+      username
+      plan
+      createdAt
+      updatedAt
+    }
+  }
+}
+```
+
+### Retrieve a deployed app by global ID
+
+```graphql
+query {
+  node(id: "PASTE_APP_ID_HERE") {
+    ... on DeployedAppNode {
+      id
+      active
+      owner {
+        id
+        username
+      }
+      createdAt
+      updatedAt
+    }
+  }
+}
+```
+
 ## Testing
 
 ```sh

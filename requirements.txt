@@ -7,3 +7,4 @@ graphene-django
 django-graphql-jwt
 pytest-django
 psycopg2-binary
+pytest-watch
