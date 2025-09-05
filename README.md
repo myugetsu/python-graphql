@@ -1,4 +1,4 @@
-# GraphQL Backend Challenge
+# GraphQL Backend
 
 ## Overview
 
